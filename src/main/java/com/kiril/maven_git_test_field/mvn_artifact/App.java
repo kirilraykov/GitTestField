@@ -12,5 +12,8 @@ public class App
         
         //changes from the feature 2
         System.out.println("feature 2");
+        
+      //changes from the feature 3
+       System.out.println("feature 3");
     }
 }
