@@ -6,8 +6,8 @@ package com.kiril.maven_git_test_field.mvn_artifact;
  */
 public class App 
 {
-    public static void main( String[] args )
-    {   //a changes on the master from the other developers
+    public static void main( String[] args ){
+    	//a changes on the master from the other developers
         System.out.println( "Hello World!" );
     }
 }
