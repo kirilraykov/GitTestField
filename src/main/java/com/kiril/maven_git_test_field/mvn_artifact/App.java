@@ -2,7 +2,7 @@ package com.kiril.maven_git_test_field.mvn_artifact;
 
 /**
  * Hello world!
- *
+ *Hiiiiiiiiiiiiiiiiii
  */
 public class App 
 {
