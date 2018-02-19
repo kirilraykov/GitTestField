@@ -1,6 +1,6 @@
 package com.kiril.maven_git_test_field.mvn_artifact;
 
-/**
+/**hello
  * Hello world!
  *Hiiiiiiiiiiiiiiiiii
  */
